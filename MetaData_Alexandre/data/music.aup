@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="music_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="10.8841689489" vpos="0" h="0.0000000000" zoom="101.1560924102" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="comment" value="All of my material belongs to JaGeX ltd, from the game RuneScape. I do not own or have any rights at all. I make my videos because i love 8-bit music. I do not attend to sell or make money on this project. I just want to share my videos with other people who love 8-bit music aswell!"/>
+		<tag name="purl" value="https://www.youtube.com/watch?v=IAWUvho7C3Q"/>
+		<tag name="description" value="All of my material belongs to JaGeX ltd, from the game RuneScape. I do not own or have any rights at all. I make my videos because i love 8-bit music. I do not attend to sell or make money on this project. I just want to share my videos with other people who love 8-bit music aswell!"/>
+		<tag name="ARTIST" value="Runescape8bit"/>
+		<tag name="TITLE" value="Runescape 8-bit music - Funny bunnies"/>
+		<tag name="Software" value="Lavf57.56.101"/>
+		<tag name="YEAR" value="20091221"/>
+	</tags>
+	<wavetrack name="runescape-8-bit-music-funny-bunnies" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="-16.68708333" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1319783">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c00.au" len="261615" min="-0.651671" max="0.551136" rms="0.035772"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="e0808fe6.au" len="262144" min="-0.564464" max="0.41453" rms="0.052256"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="e0808e9e.au" len="138610" min="-0.540681" max="0.450192" rms="0.052755"/>
+				</waveblock>
+				<waveblock start="662369">
+					<simpleblockfile filename="e08087e3.au" len="138611" min="-0.518545" max="0.443801" rms="0.065576"/>
+				</waveblock>
+				<waveblock start="800980">
+					<simpleblockfile filename="e08083b3.au" len="262144" min="-0.528544" max="0.423635" rms="0.054801"/>
+				</waveblock>
+				<waveblock start="1063124">
+					<simpleblockfile filename="e08083c1.au" len="256659" min="-0.549759" max="0.393928" rms="0.054023"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="16.687083333333" val="0.619718313217"/>
+				<controlpoint t="16.687083333333" val="1.000000000000"/>
+				<controlpoint t="27.495479166667" val="1.000000000000"/>
+				<controlpoint t="27.495479166667" val="0.619718313217"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="runescape-8-bit-music-funny-bunnies" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="-16.68708333" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1319783">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808527.au" len="261615" min="-0.583726" max="0.508876" rms="0.031135"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="e0808e7f.au" len="262144" min="-0.537744" max="0.382433" rms="0.046279"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="e0808e22.au" len="138610" min="-0.507458" max="0.397293" rms="0.047188"/>
+				</waveblock>
+				<waveblock start="662369">
+					<simpleblockfile filename="e0808cd8.au" len="138611" min="-0.497516" max="0.375573" rms="0.054466"/>
+				</waveblock>
+				<waveblock start="800980">
+					<simpleblockfile filename="e08085b5.au" len="262144" min="-0.477898" max="0.35489" rms="0.048071"/>
+				</waveblock>
+				<waveblock start="1063124">
+					<simpleblockfile filename="e08081b9.au" len="256659" min="-0.49519" max="0.33979" rms="0.047124"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="16.687083333333" val="0.619718313217"/>
+				<controlpoint t="16.687083333333" val="1.000000000000"/>
+				<controlpoint t="27.495479166667" val="1.000000000000"/>
+				<controlpoint t="27.495479166667" val="0.619718313217"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
